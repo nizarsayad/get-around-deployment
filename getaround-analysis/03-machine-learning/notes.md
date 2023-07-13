@@ -1,0 +1,12 @@
+- Number of rows: 4843
+- Dtypes:
+  - 7 bool
+  - 3 int
+  - 4 obj
+- No missing values
+- No outliers from looking at the basic statistics
+- 3 ML models, base, no fine tuning:
+  - LinearRegression (overfit)
+  - DecisionTree (slight overfit)
+  - RandomForest (overfit)
+- Applying regularization
