@@ -1,0 +1,5 @@
+.env
+mynotes.md
+secrets.sh
+.DS_Store
+__pycache__
