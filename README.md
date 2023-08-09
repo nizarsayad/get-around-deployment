@@ -12,6 +12,8 @@
 
 [**GetAround API documentation**](http://ec2-35-180-36-210.eu-west-3.compute.amazonaws.com/docs)
 
+The link to the vidyard video is [here](https://share.vidyard.com/watch/zkEdHd2mrDnunbGGQC88y4?)
+
 GetAround is the Airbnb for cars. You can rent cars from any person for a few hours to a few days! Founded in 2009, this company has known rapid growth. In 2019, they count over 5 million users and about 20K available cars worldwide.
 
 This project is part of the professional certification Machine Learning Engineer (Concepteur Développeur en Science des données) and represents bloc 5 of the certification titled: "Deployment".
